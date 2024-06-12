@@ -1,10 +1,10 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "database_development",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "username": "postgres.jfbhimyuokljzihsdroy",
+    "password": "Aeh7GGLyDvwXgOld",
+    "database": "postgres",
+    "host": "aws-0-ap-southeast-1.pooler.supabase.com",
+    "dialect": "postgres"
   },
   "test": {
     "username": "root",
